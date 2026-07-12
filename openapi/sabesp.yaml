@@ -1,0 +1,7 @@
+openapi: 3.0.0
+info: { title: Sabesp, version: '1' }
+paths:
+  /faturas:
+    get:
+      operationId: listarFaturas
+      responses: { '200': { description: ok } }
