@@ -2,4 +2,4 @@
 slug: demo
 ---
 
-Editado por OUTRO autor.
+Journey de demonstração.
