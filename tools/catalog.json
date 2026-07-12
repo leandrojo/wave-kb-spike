@@ -1,0 +1,10 @@
+{
+  "listar_faturas": {
+    "id": "listar_faturas",
+    "name": "listar_faturas",
+    "openapi": {
+      "documentRef": "openapi/sabesp.yaml",
+      "operationId": "naoExiste"
+    }
+  }
+}
